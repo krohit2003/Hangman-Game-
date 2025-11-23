@@ -1,6 +1,6 @@
 ---
 title: "Trexquant Interview Project (The Hangman Game)"
-author: "Gaurish Bansal"
+author: "Rohit Karwa"
 date: "2024-11-26"
 output: pdf_document
 editor_options:
@@ -191,3 +191,4 @@ patterns can significantly enhance a Hangman-playing algorithm. By
 leveraging n-gram components and conditional probabilities, the model
 outperformed a basic implementation, achieving a success rate well above
 the set benchmark.
+
